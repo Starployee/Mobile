@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="460.79999"
+   height="259.20001"
+   id="svg36"
+   viewBox="0 0 460.79999 259.20001"
+   sodipodi:docname="logo.cdr">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview38" />
+  <defs
+     id="defs8">
+    <linearGradient
+       id="grad1">
+      <stop
+         offset="0%"
+         stop-color="#ffff00"
+         stop-opacity="1.0000"
+         id="stop2" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         stop-opacity="1.0000"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#grad1"
+       id="grad2"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1"
+       gradientTransform="rotate(-70,0.5,0.5)"
+       gradientUnits="objectBoundingBox" />
+  </defs>
+  <path
+     d="m 149.1117,28.5877 15.5018,48.0234 50.4633,-0.097 -40.8827,29.5832 15.6863,47.9635 -40.7687,-29.7401 -40.7687,29.7401 15.6863,-47.9635 -40.8827,-29.5832 50.4633,0.097 z"
+     style="fill:url(#grad2)"
+     id="path10" />
+  <defs
+     id="defs18">
+    <linearGradient
+       id="grad3">
+      <stop
+         offset="0%"
+         stop-color="#000000"
+         stop-opacity="1.0000"
+         id="stop12" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         stop-opacity="1.0000"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#grad3"
+       id="grad4"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1"
+       gradientTransform="rotate(-44,0.5,0.5)"
+       gradientUnits="objectBoundingBox" />
+  </defs>
+  <path
+     d="m 72.023,96.3811 c 31.7157,-4.8609 51.0769,-5.7634 66.7819,-0.1661 15.7238,5.6035 27.6928,17.6796 44.6225,38.7717 0.3322,0.4161 0.1916,0.6905 -0.1009,0.9207 l -0.1151,0.0765 c -0.0618,0.038 -0.0992,-0.0385 -0.1151,-0.1548 l -0.1746,-0.2222 -0.5091,0.402 c -0.2115,-0.2671 -0.2274,-0.4746 -0.1361,-0.6492 -16.6541,-20.719 -28.4604,-32.5939 -43.848,-38.0778 -15.4913,-5.5207 -34.708,-4.6125 -66.2377,0.2194 z m 111.067,39.2258 -0.0646,-0.0822 -0.0606,0.0476 0.1264,0.2115 z m -0.0629,-0.0833 0.0635,0.0771 0.0176,-0.1412 z m -0.0623,0.0487 0.1264,0.2115 0.004,0.0374 -0.1729,-0.2149 z"
+     style="fill:url(#grad4)"
+     id="path20" />
+  <defs
+     id="defs28">
+    <linearGradient
+       id="grad5">
+      <stop
+         offset="0%"
+         stop-color="#000000"
+         stop-opacity="1.0000"
+         id="stop22" />
+      <stop
+         offset="100%"
+         stop-color="#ffffff"
+         stop-opacity="1.0000"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#grad5"
+       id="grad6"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1"
+       gradientTransform="rotate(-49,0.5,0.5)"
+       gradientUnits="objectBoundingBox" />
+  </defs>
+  <path
+     d="m 70.7564,87.232 c 31.8501,-5.0417 51.4347,-3.591 67.3762,4.4424 15.9318,8.0277 28.1446,22.5882 45.2948,43.7925 l -0.881,0.7086 C 165.4892,115.0869 153.3489,100.6087 137.6235,92.6847 121.9076,84.7653 102.5243,83.3474 70.9333,88.3477 Z"
+     style="fill:url(#grad6)"
+     id="path30" />
+  <text
+     x="184.4028"
+     y="139.27271"
+     id="text34"><tspan
+       font-family="'Californian FB'"
+       font-size="39.5px"
+       fill="#666666"
+       id="tspan32">Starployee</tspan></text>
+</svg>
